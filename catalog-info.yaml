@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: janu-test-template
+  annotations:
+    github.com/project-slug: jprejith/janu-test-template
+spec:
+  type: other
+  lifecycle: unknown
+  owner: jprejith
